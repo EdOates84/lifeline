@@ -7,6 +7,6 @@ The app will impact the whole IITR community as it will shorten the time spent i
 
 ### Goals
 
-I want to save time of IITR people through this android app and also avoid sack of inconvenience (like Doctor is not available, or related to token no.).
+I want to save time of IITR people through this android app and also avoid lack of convenience (like Doctor is not available, or related to token no.).
 
 It will provide an online platform where users can connect with the happenings of the hospital via an android app. 	
